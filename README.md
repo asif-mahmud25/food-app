@@ -1,8 +1,8 @@
-# Introduction
+# Food App
 
 Food app is a recipe searching web application with a beautiful design. The app fetch the recipes from a real recipe API. 
 
-# Features
+## Features
 
 * Search for a lot of recipes
 * Fetch recipe information with images from a real API
@@ -11,7 +11,7 @@ Food app is a recipe searching web application with a beautiful design. The app 
 * Editing and add ingredients to shopping list
 * Add to favorite recipes
 
-# Technologies Used
+## Technologies Used
 
 * HTML5
 * CSS3
@@ -23,11 +23,11 @@ Food app is a recipe searching web application with a beautiful design. The app 
     * Fractional
     * Uniqid
 
-# How to Use
+## How to Use
 
 In the dist folder I have already bundled up the javascript modules and put in the html and css. So the finished project is in the dist folder.
 
-## Make Changes
+### Make Changes
 
 Changes can be done from the src folder and bundle up javascript modules again in the dist folder with the following command
 
@@ -37,12 +37,12 @@ npm run build
 
 This will bunlde the javascript modules again and put it in the dist folder in the correct location reflecting the new changes.
 
-## Live App
+### Live App
 
 Check out this app live by going to 
 [Pro Valley](https://asif-mahmud25.github.io/pro-valley/) and then to Food App.
 
 
-# Sreen Shot
+## Sreenshot
 
 ![homepage](./screen-shot/food-app-ss.png)
