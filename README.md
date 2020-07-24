@@ -39,7 +39,7 @@ This will bunlde the javascript modules again and put it in the dist folder in t
 
 ### Live App
 
-Check out this app live by going to 
+You can check out this app live by going to 
 [Pro Valley](https://asif-mahmud25.github.io/pro-valley/) and then to Food App.
 
 
